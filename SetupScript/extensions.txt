@@ -1,0 +1,5 @@
+aeschli.vscode-css-formatter
+formulahendry.auto-rename-tag
+formulahendry.code-runner
+ritwickdey.LiveServer
+sidthesloth.html5-boilerplate
