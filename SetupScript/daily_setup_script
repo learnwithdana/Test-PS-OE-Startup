@@ -1,14 +1,15 @@
 #!/bin/bash
 
 #INSTALLING CHROME
-#wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
-#sudo apt install ./google-chrome-stable_current_amd64.deb
+wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+sudo apt install ./google-chrome-stable_current_amd64.deb
+rm google-chrome-stable_current_amd64.deb
 
 #INSTALLING POSTMAN
-wget https://dl.pstmn.io/download/latest/linux64 -O postman.tar.gz
-sudo tar -xzf postman.tar.gz -C /opt
-rm postman.tar.gz
-sudo ln -s /opt/Postman/Postman /usr/bin/postman
+#wget https://dl.pstmn.io/download/latest/linux64 -O postman.tar.gz
+#sudo tar -xzf postman.tar.gz -C /opt
+#rm postman.tar.gz
+#sudo ln -s /opt/Postman/Postman /usr/bin/postman
 
 #INSTALLING VSCODE
 sudo apt install software-properties-common apt-transport-https wget -Y
