@@ -17,6 +17,12 @@ wget -q https://packages.microsoft.com/keys/microsoft.asc -O- | sudo apt-key add
 sudo add-apt-repository "deb [arch=amd64] https://packages.microsoft.com/repos/vscode stable main"
 sudo apt install code
 
+#INSTALLING VSCODE EXTENSIONS
+cat extensions.txt | while read extension || [[ -n $extension ]];
+do
+  code --install-extension $extension --force
+done
+
 #STARTING CHROME
 #google-chrome
 
