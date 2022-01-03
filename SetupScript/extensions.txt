@@ -3,4 +3,4 @@ formulahendry.auto-rename-tag
 formulahendry.code-runner
 ritwickdey.LiveServer
 sidthesloth.html5-boilerplate
-analytic-signal.preview.pdf
+analytic-signal.preview-pdf
