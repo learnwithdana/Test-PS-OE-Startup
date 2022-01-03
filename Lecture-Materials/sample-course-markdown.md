@@ -1,7 +1,7 @@
 # Introduction to Some-Live-PS-Class
 
 Welcome to the Introduction to Some-Live-PS-Class class where we will teach you how to build a fort
-by finding pillows and blankets, arranging living room furtiture in a circle, and then covering them with blanksts 
+by finding pillows and blankets, arranging living room furniture in a circle, and then covering them with blanksts 
 
 ## Part 1
 The most important part is to find pillows and blankets that won't get you in trouble.
